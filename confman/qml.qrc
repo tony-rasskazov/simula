@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PageLayout.qml</file>
+        <file>PageLayoutForm.ui.qml</file>
+        <file>AllDevices.qml</file>
+        <file>AllDevicesForm.ui.qml</file>
+        <file>DeviceGroups.qml</file>
+        <file>DeviceGroupsForm.ui.qml</file>
+        <file>OfficeDevices.qml</file>
+        <file>OfficeDevicesForm.ui.qml</file>
+        <file>HouseDevices.qml</file>
+        <file>HouseDevicesForm.ui.qml</file>
+        <file>CarDevices.qml</file>
+        <file>CarDevicesForm.ui.qml</file>
+        <file>Device.qml</file>
+        <file>DeviceForm.ui.qml</file>
+        <file>Develop.qml</file>
+        <file>DevelopForm.ui.qml</file>
+        <file>DeviceChildren.qml</file>
+        <file>Child.qml</file>
+    </qresource>
+</RCC>

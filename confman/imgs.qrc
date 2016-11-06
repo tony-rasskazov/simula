@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cam.png</file>
+        <file>res/cond.png</file>
+        <file>res/find_devices.png</file>
+        <file>res/geo.png</file>
+        <file>res/gsm.png</file>
+        <file>res/heater.png</file>
+        <file>res/humidity.png</file>
+        <file>res/lock.png</file>
+        <file>res/mic.png</file>
+        <file>res/motion.png</file>
+        <file>res/rfid.png</file>
+        <file>res/temp.png</file>
+        <file>res/sound.png</file>
+        <file>res/touchscan.png</file>
+    </qresource>
+</RCC>
